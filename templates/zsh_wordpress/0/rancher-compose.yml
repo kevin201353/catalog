@@ -9,5 +9,3 @@
     required: true
     default: 1
     type: "int"
-  zsh_wordpress:
-    scale:${scale}

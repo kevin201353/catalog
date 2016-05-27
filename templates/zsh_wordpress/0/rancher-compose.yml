@@ -1,11 +1,7 @@
 .catalog:
   name: zsh_wordpress
   version: v1.0.0
-  description: | zsh_wordpress
+  description: | 
+          zsh_wordpress
   uuid: zsh_wordpress-0
-  questions:
-    - variable: "scale"
-    label: "111"
-    required: true
-    default: 1
-    type: "int"
+
